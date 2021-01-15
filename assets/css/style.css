@@ -55,7 +55,7 @@ body{
 }
 
 a{
-	color: #3498db;
+	color: #0E283A;
 }
 a:focus{
 	outline:none;
@@ -288,7 +288,7 @@ a:focus{
 	color: #fff;
 }
 .social-btn-box .a:hover{
-	background:#3498db;
+	background:#0E283A;
 	color: #fff;
 }
 /* 2.2 - Social Button
@@ -555,7 +555,7 @@ a:focus{
 	font-size:18px;
 	line-height:40px;
 	display:inline-block;
-	background-color:#3498db;
+	background-color:#0E283A;
 	text-transform:uppercase;
 	padding:0px 25px;
 }
@@ -730,7 +730,7 @@ form.news-letter .btn{
 }
 
 form.news-letter .btn:hover{
-	color:#3498db;
+	color:#0E283A;
 }
 #subscribe-loading {
 	display: none;
@@ -817,7 +817,7 @@ form.news-letter .btn:hover{
 	border-top:0px solid transparent;
 }
 #contact-form  .btn:hover{
-	color:#3498db;
+	color:#0E283A;
 }
 #contact-form  .col-sm-6,
 #contact-form  .col-sm-10{
@@ -886,7 +886,7 @@ form.news-letter .btn:hover{
 	color: #1a1a1a;
 }
 #footer-section p a{
-	color: #3498db;
+	color: #0E283A;
 }
 /* 8 - Footer Section End 
 ---------------------------------------------------------------------- */
