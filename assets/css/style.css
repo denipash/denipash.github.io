@@ -1,9 +1,6 @@
 /*------------------------------------------------------------------- /
 
-Template Name: Kite
-Template URI: http://jwtheme.com/
-Author: JWTheme
-Author URI: http://jwtheme.com/
+Template
 Description: Kite Coming Soon HTML Template by JWTheme
 Version: 1.1
 License: GNU General Public License v2 or later
@@ -331,6 +328,8 @@ a:focus{
 }
 .height-resize .team-container .col-sm-4{
 	padding-top:20px !important;
+        align-content: center;
+
 }
 /* 2.4 - Height Resize End 
 ------------------------------------------ */
@@ -576,7 +575,9 @@ a:focus{
 .team-container .team-member{
 	max-width:245px;
 	margin:auto;
-	position:relative;
+	position:center;
+	align-content: center;
+
 	overflow:hidden;
 }
 
@@ -594,15 +595,21 @@ a:focus{
 	font-size:22px;
 	font-weight:700;
 	padding-top:20px;
+	position:center;
+	align-content: center;
 }
 .team-container .member-name {
 	font-size: 1.5em;
 	font-weight: 700;
 	margin: 0;
 	padding: 26px 10px 5px 10px;
+	position:center;
+	align-content: center;
 }
 .team-container figcaption p{
 	font-size: 1.125em;
+		position:center;
+	align-content: center;
 }
 .team-container .social-buttons{
 	display:inline-block;
@@ -621,7 +628,7 @@ a:focus{
 }
 
 .team-member .social-btn-container {
-	position: absolute;
+	position: center;
 	top: 0px;
 	margin: 0 auto;
 	left: 0;
@@ -631,12 +638,12 @@ a:focus{
 }
 .team-member .social-btn-container .team-socail-btn{
 	overflow: hidden;
-	position: relative;
+	position: center;
 	width:245px;
 	height: 230px;
 }
 .team-member .social-btn-container .social-btn-box{
-	position: absolute;
+	position: center;
 
 }
 .team-member .social-btn-container .facebook-btn-container{
@@ -692,11 +699,11 @@ a:focus{
 	        transition:all .25s;
 }
 .team-container .team-member:hover figure{
-	background-color:#3498db;
+	background-color:#0E283A;
 	color:#fff;
 }
 .team-container .team-member:hover figcaption{
-	border-color:#3498db;
+	border-color:#0E283A;
 	color:#fff;
 }
 
